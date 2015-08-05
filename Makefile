@@ -1,5 +1,4 @@
 SITE_FILES := $(wildcard *.html)
-SITE_FILES += CNAME
 SITE_DIR := site/
 
 help:
