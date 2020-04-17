@@ -3,6 +3,10 @@ SITE_DIR := _site
 PUBLISH := cp
 DOMAIN := byronjsmith.com
 
+VENV = .venv
+export VIRTUAL_ENV := $(abspath ${VENV})
+export PATH := ${VIRTUAL_ENV}/bin:${PATH}
+
 help:
 	@echo 'Run `make upload` to build the site and push to github.'
 
