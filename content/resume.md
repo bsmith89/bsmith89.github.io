@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2020-12-21
+version: 2021-02-12
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -23,10 +23,16 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Publications ##
 
+-   [in prep]
+    **B.J. Smith**, M. Zydek, L. Syriani, J.P. Terdiman,
+    Y. Piceno, Z. Kassam, A. Ma, S. Lynch, K. Pollard, N. El-Nachef.
+    Efficacy and engraftment of fecal microbiota transplant with antibiotic
+    pretreatment and maintenance dosing in ulcerative colitis.
+
 -   [2020]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
-    treatment in mice. _bioRxiv_
+    treatment in mice. _bioRxiv_ (in review at mSphere)
     doi:[10.1101/2020.07.01.183202](https://doi.org/10.1101/2020.07.01.183202)
 
 -   [2020]
