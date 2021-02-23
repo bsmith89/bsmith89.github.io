@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-02-12
+version: 2021-02-22
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -62,7 +62,7 @@ current: http://www.byronjsmith.com/resume.html
 
 -   [2020] "Identifying and tracking bacterial strains in metagenomic libraries"
     ([talk](https://byronjsmith.com/toolstech2020.pdf))
-    **Tool & Tech RIPS**, The Gladstone Institutes, San Francisco, California
+    **Tools & Tech RIPS**, The Gladstone Institutes, San Francisco, California
 
 -   [2020] "Strain-level bacterial reconstruction and inference in patients
     receiving fecal microbiota transplantation for ulcerative colitis"
@@ -223,7 +223,7 @@ current: http://www.byronjsmith.com/resume.html
         New Hampshire, University of Michigan, Wayne State University,
         Lawrence Berkeley National Laboratory, and Genentech
     -   Contributor to development of shared teaching materials,
-        notably lessons on the tools `git` and `make`.
+        notably lessons on the tools Git and Make.
 
 -   [2020] Guest Lecturer,
     **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
