@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-02-22
+version: 2021-06-14
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -32,7 +32,7 @@ current: http://www.byronjsmith.com/resume.html
 -   [2020]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
-    treatment in mice. _bioRxiv_ (in review at mSphere)
+    treatment in mice. _bioRxiv_ (in revisions for mSphere)
     doi:[10.1101/2020.07.01.183202](https://doi.org/10.1101/2020.07.01.183202)
 
 -   [2020]
@@ -59,6 +59,11 @@ current: http://www.byronjsmith.com/resume.html
     doi:[10.1093/nar/gku1201](https://doi.org/10.1093/nar/gku1201)
 
 ## Posters and Presentations ##
+
+-   [2021] "Bacterial genotype deconvolution in shotgun
+    metagenomic reads using fuzzy genotypes"
+    ([poster](https://byronjsmith.com/probgen2021_poster.pdf))
+    **Probabilistic Modeling in Genomics**, Cold Spring Harbor Lab
 
 -   [2020] "Identifying and tracking bacterial strains in metagenomic libraries"
     ([talk](https://byronjsmith.com/toolstech2020.pdf))
@@ -135,6 +140,8 @@ current: http://www.byronjsmith.com/resume.html
 
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
 
+\pagebreak
+
 ## Education ##
 
 -   [2013-2018] **University of Michigan**, Ann Arbor, MI
@@ -210,6 +217,11 @@ current: http://www.byronjsmith.com/resume.html
     bacterial family, the _Muribaculaceae_
     -   Associated metabolite profiles and mouse longevity data are also available
 
+-   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
+    Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
+    patients receiving fecal microbiota transplants with and without antibiotic
+    pretreatment and with maintenance dosing via either capsules or enema.
+
 ## Teaching ##
 
 -   [2015-present] Instructor,
@@ -224,6 +236,7 @@ current: http://www.byronjsmith.com/resume.html
         Lawrence Berkeley National Laboratory, and Genentech
     -   Contributor to development of shared teaching materials,
         notably lessons on the tools Git and Make.
+
 
 -   [2020] Guest Lecturer,
     **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
@@ -270,7 +283,6 @@ current: http://www.byronjsmith.com/resume.html
     -   Course Instructor: Dr. Robert A. Britton
 
 ## Service and Outreach ##
-
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
     -  Serve as an advocate for postdoc issues at the Gladstone Institutes,
        involved in planning and executing several activities and events
