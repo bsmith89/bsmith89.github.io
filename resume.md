@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-06-14
+version: 2021-08-05
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -23,11 +23,13 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Publications ##
 
--   [in prep]
-    **B.J. Smith**, M. Zydek, L. Syriani, J.P. Terdiman,
-    Y. Piceno, Z. Kassam, A. Ma, S. Lynch, K. Pollard, N. El-Nachef.
-    Efficacy and engraftment of fecal microbiota transplant with antibiotic
-    pretreatment and maintenance dosing in ulcerative colitis.
+-   [2021]
+    **B.J. Smith**, Y.M. Piceno, M. Zydek, B. Zhang, L. Aboud Syriani,
+    J.P. Terdiman, Z. Kassam, A. Ma, S.V. Lynch, K.S. Pollard, N. El-Nachef.
+    Clinical efficacy and increased donor strain engraftment after antibiotic
+    pretreatment in a randomized trial of ulcerative colitis patients receiving
+    fecal microbiota transplant. _medRxiv_ (submitted to Scientific Reports)
+    doi:[TBD](https://byronjsmith.com/ucfmt2021_paper.pdf)
 
 -   [2020]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
@@ -84,8 +86,6 @@ current: http://www.byronjsmith.com/resume.html
     ([poster](https://byronjsmith.com/asm2019_poster.pdf)),
     **American Society for Microbiology - Microbe**, San Francisco, California
 
-\pagebreak
-
 -   "Changes in the gut microbiota and fermentation products associated
     with enhanced longevity in acarbose-treated mice."
     Presented at:
@@ -139,8 +139,6 @@ current: http://www.byronjsmith.com/resume.html
 -   [2008-2010] Howard Hughes Medical Institute Student Research Awards
 
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
-
-\pagebreak
 
 ## Education ##
 
@@ -210,17 +208,18 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Public Datasets ##
 
+-   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
+    Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
+    patients receiving fecal microbiota transplants with and without antibiotic
+    pretreatment and with maintenance dosing via either capsules or enema.
+    -   Associated bile acid profiles are also available
+
 -   [PRJNA448009](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA448009):
     Paired metagenomes and 16S rRNA gene libraries of fecal samples from
     acarbose treated and control mice, as well as carefully curated
     metagenome assembled genomes from nine members of the understudied
     bacterial family, the _Muribaculaceae_
     -   Associated metabolite profiles and mouse longevity data are also available
-
--   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
-    Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
-    patients receiving fecal microbiota transplants with and without antibiotic
-    pretreatment and with maintenance dosing via either capsules or enema.
 
 ## Teaching ##
 
@@ -236,7 +235,6 @@ current: http://www.byronjsmith.com/resume.html
         Lawrence Berkeley National Laboratory, and Genentech
     -   Contributor to development of shared teaching materials,
         notably lessons on the tools Git and Make.
-
 
 -   [2020] Guest Lecturer,
     **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
@@ -287,7 +285,7 @@ current: http://www.byronjsmith.com/resume.html
     -  Serve as an advocate for postdoc issues at the Gladstone Institutes,
        involved in planning and executing several activities and events
 
--   [2018-present] **Software Carpentry Curriculum Advisory Committee** member
+-   [2018-2020] **Software Carpentry Curriculum Advisory Committee** member
 
 -   [2019] **UCSF Library Reproducibility for Biomedical Researchers** panelist
 
