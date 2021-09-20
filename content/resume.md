@@ -6,6 +6,7 @@ twitter: ByronJSmith
 linkedin: bsmith89
 github: bsmith89
 orcid: 0000-0002-0182-404X
+gscholar: ZtIlAngAAAAJ
 website: http://blog.byronjsmith.com
 header-includes:
     \usepackage{fullpage}
@@ -66,6 +67,8 @@ diverse data towards understanding complex microbial communities.
     Archaea and a new foundation for future development.
     _Nucleic Acids Research_.
     doi:[10.1093/nar/gku1201](https://doi.org/10.1093/nar/gku1201)
+
+\pagebreak
 
 ## Posters and Presentations ##
 
