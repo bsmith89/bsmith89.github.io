@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-11-10
+version: 2021-11-16
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -34,7 +34,7 @@ diverse data towards understanding complex microbial communities.
 -   [2021]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
-    treatment in mice. _bioRxiv_ (revised and resubmitted to _mSphere_)
+    treatment in mice. _bioRxiv_ (accepted for publication at _mSphere_)
     doi:[10.1101/2020.07.01.183202](https://doi.org/10.1101/2020.07.01.183202)
 
 -   [2021] **B.J. Smith**, K.S. Pollard. Evaluation of Le et al.: Challenges
@@ -304,6 +304,9 @@ diverse data towards understanding complex microbial communities.
     -   Course Instructor: Dr. Robert A. Britton
 
 ## Service and Outreach ##
+-   [2018-present] **Software Carpentry Curriculum Advisory Committee**
+    - [2021-present] Chair
+
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
     -  Advised Gladstone leadership and administration on postdoc issues,
        involved in planning and executing several
@@ -312,8 +315,6 @@ diverse data towards understanding complex microbial communities.
        and retention of postdocs from communities historically
        under-represented in the life sciences, which directly contributed to
        the creation and implementation of the Gladstone DEI Strategic Plan.
-
--   [2018-2020] **Software Carpentry Curriculum Advisory Committee** member
 
 -   [2019] **UCSF Library Reproducibility for Biomedical Researchers** panelist
 
