@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-05-16
+version: 2022-07-18b
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -25,6 +25,11 @@ I develop and use bioinformatic tools and statistical models to integrate
 diverse data towards understanding complex microbial communities.
 
 ## Publications ##
+
+-   [submitted] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
+    microbial communities with MIDAS2: from metagenomic reads to allele
+    frequency tables.
+    (submitted to _Current Protocols in Bioinformatics_)
 
 -   [2022]
     **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable microbial
@@ -146,13 +151,13 @@ diverse data towards understanding complex microbial communities.
 
 -   [2021-2022] Computational Innovation Post-doctoral Fellowship
     for my proposal, "Strain-resolved microbiome-wide association studies for
-    the discovery of hidden, microbial drivers of disease", funded for $75,000
+    the discovery of hidden, microbial drivers of disease", funded for \$75,000
 
 -   [2016-2018] Integrated Training in Microbial Systems (ITiMS) Fellowship
     co-advised by Dr. Thomas M. Schmidt and Dr. Aaron A. King
 
 -   [2015-2016] Instrumental in preparing a UM Glenn Center for Aging Research
-    grant which was funded for $50,000.
+    grant which was funded for \$50,000.
     Principal Investigator: Dr. Thomas M. Schmidt
 
 -   [2013-2014] UM Ecology & Evolutionary Biology Departmental Block Grant
@@ -328,7 +333,7 @@ diverse data towards understanding complex microbial communities.
         and students of the Burroughs Wellcome Fund's Institutional Program
         Unifying Population and Laboratory Based Sciences
     -   Held at the University of Michigan
-    -   $150,000 budget
+    -   \$150,000 budget
 
 -   [2016-2017] **Ecology and Evolutionary Biology Statistics Office Hours**
     organizer
