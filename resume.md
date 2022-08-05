@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-07-18b
+version: 2022-08-05
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -26,7 +26,7 @@ diverse data towards understanding complex microbial communities.
 
 ## Publications ##
 
--   [submitted] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
+-   [in review] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
     frequency tables.
     (submitted to _Current Protocols in Bioinformatics_)
@@ -80,6 +80,11 @@ diverse data towards understanding complex microbial communities.
     doi:[10.1093/nar/gku1201](https://doi.org/10.1093/nar/gku1201)
 
 ## Posters and Presentations ##
+
+-   [upcoming]
+    "Strain-resolved inference of microbial gene content in large metagenomic datasets."
+    ([submitted abstract](https://byronjsmith.com/cshl_microbiome_2022_abstract.pdf))
+    **CSHL - Microbiome Meeting**, Cold Spring Harbor, NY
 
 -   [2022]
     "Scaling microbial strain inference to tens of thousands of metagenomes with fuzzy genotypes."
