@@ -1,7 +1,7 @@
 ---
 name: Byron J. Smith, PhD
 
-email: me@byronjsmith.com
+email: byron.smith@gladstone.ucsf.edu
 twitter: ByronJSmith
 linkedin: bsmith89
 github: bsmith89
@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-08-05
+version: 2022-10-28
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -24,12 +24,41 @@ current: http://www.byronjsmith.com/resume.html
 I develop and use bioinformatic tools and statistical models to integrate
 diverse data towards understanding complex microbial communities.
 
+## Education and Professional Experience ##
+
+-   [2019-present] Postdoctoral Scholar
+    -   **Gladstone Institute** for Data Science and Biotechnology, San Francisco, CA
+    -   Research Advisor: Dr. Katherine S. Pollard
+
+-   [2013-2018] PhD in Ecology and Evolutionary Biology
+    -   **University of Michigan**, Ann Arbor, MI
+    -   [Dissertation](https://byronjsmith.com/dissertation.pdf): "Integrated
+        Analysis of the Gut Microbiota and Their Fermentation Products in Mice
+        Treated with the Longevity Enhancing Drug Acarbose"
+    -   Embedded Masters in Ecology and Evolutionary Biology, granted in 2016
+    -   GPA: 4.0
+    -   Research Advisor: Dr. Thomas M. Schmidt
+
+-   [2011-2013] Graduate Student in Microbiology and Molecular Genetics
+    -   **Michigan State University**, East Lansing, MI
+    -   GPA: 4.0
+    -   Affiliate, BEACON Center for The Study of Evolution in Action
+    -   Affiliate, Great Lakes Bioenergy Research Center
+    -   Research Advisor: Dr. Thomas M. Schmidt
+
+-   [2007-2011] Bachelor of Science in Biology
+    -   **The College of William \& Mary**, Williamsburg, VA
+    -   Graduated _Summa Cum Laude_
+    -   GPA: 3.80 (overall) / 4.00 (major)
+    -   Minor: Mathematics
+    -   Research Advisor: Dr. Margaret S. Saha
+
+
 ## Publications ##
 
--   [in review] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
+-   [2022] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
-    frequency tables.
-    (submitted to _Current Protocols in Bioinformatics_)
+    requency tables. _Current Protocols in Bioinformatics_ (in press)
 
 -   [2022]
     **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable microbial
@@ -81,9 +110,19 @@ diverse data towards understanding complex microbial communities.
 
 ## Posters and Presentations ##
 
--   [upcoming]
+-   [2022 (upcoming)]
+    "Strain tracking and reconstruction in large metagenomic datasets."
+    (invited talk)
+    **Quantitative Biosciences Consortium Retreat**, Santa Cruz, CA
+
+-   [2022 (upcoming)] "Strain-resolved bacterial genome reconstruction in large, metagenomic datasets"
+    ([poster](https://byronjsmith.com/noyce_symposium_2022_poster.pdf))
+    **University of California Noyce Initiative Symposium**, Santa Barbara, CA
+
+-   [2022]
     "Strain-resolved inference of microbial gene content in large metagenomic datasets."
-    ([submitted abstract](https://byronjsmith.com/cshl_microbiome_2022_abstract.pdf))
+    ([talk](https://byronjsmith.com/cshl_microbiome_2022_slides.pdf) /
+    [abstract](https://byronjsmith.com/cshl_microbiome_2022_abstract.pdf))
     **CSHL - Microbiome Meeting**, Cold Spring Harbor, NY
 
 -   [2022]
@@ -174,31 +213,6 @@ diverse data towards understanding complex microbial communities.
 
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
 
-## Education ##
-
--   [2013-2018] **University of Michigan**, Ann Arbor, MI
-    -   Ph.D. in Ecology and Evolutionary Biology
-    -   [Dissertation](https://byronjsmith.com/dissertation.pdf): "Integrated
-        Analysis of the Gut Microbiota and Their Fermentation Products in Mice
-        Treated with the Longevity Enhancing Drug Acarbose"
-    -   Embedded Masters in Ecology and Evolutionary Biology, granted in 2016
-    -   GPA: 4.0
-    -   Research Advisor: Dr. Thomas M. Schmidt
-
--   [2011-2013] **Michigan State University**, East Lansing, MI
-    -   Graduate student, Microbiology and Molecular Genetics
-    -   GPA: 4.0
-    -   Affiliate, BEACON Center for The Study of Evolution in Action
-    -   Affiliate, Great Lakes Bioenergy Research Center
-    -   Research Advisor: Dr. Thomas M. Schmidt
-
--   [2007-2011] **The College of William \& Mary**, Williamsburg, VA
-    -   B.S. Biology
-    -   Graduated _Summa Cum Laude_
-    -   GPA: 3.80 (overall) / 4.00 (major)
-    -   Minor: Mathematics
-    -   Research Advisor: Dr. Margaret S. Saha
-
 ### Select Coursework and Workshops ###
 
 -   [2015]
@@ -237,9 +251,6 @@ diverse data towards understanding complex microbial communities.
 -   [2008-2011] Advised by **Dr. Margaret S. Saha**
     at The College of William \& Mary
 
--   [2006-2007] Advised by **Dr. Mary A. Voytek**
-    at the United States Geological Survey
-
 ## Public Datasets ##
 
 -   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
@@ -267,7 +278,7 @@ diverse data towards understanding complex microbial communities.
         Pennsylvania, University of California, San Francisco, University of
         New Hampshire, University of Michigan, Wayne State University,
         Lawrence Berkeley National Laboratory, and Genentech
-    -   Contributor to development of shared teaching materials,
+    -   Contributed to development of shared teaching materials,
         notably lessons on the tools Git and Make.
 
 -   [2020] Guest Lecturer,
@@ -315,6 +326,11 @@ diverse data towards understanding complex microbial communities.
     -   Course Instructor: Dr. Robert A. Britton
 
 ## Service and Outreach ##
+-   [2012-present] **Peer Reviewer**
+    - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
+      _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
+      _ISME_, and others.
+
 -   [2018-present] **Software Carpentry Curriculum Advisory Committee**
     - [2022] Committee Chair
 
