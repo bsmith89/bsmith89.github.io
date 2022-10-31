@@ -1,7 +1,7 @@
 ---
 name: Byron J. Smith, PhD
 
-email: byron.smith@gladstone.ucsf.edu
+email: me@byronjsmith.com
 twitter: ByronJSmith
 linkedin: bsmith89
 github: bsmith89
@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-10-28
+version: 2022-10-31
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -23,36 +23,6 @@ current: http://www.byronjsmith.com/resume.html
 
 I develop and use bioinformatic tools and statistical models to integrate
 diverse data towards understanding complex microbial communities.
-
-## Education and Professional Experience ##
-
--   [2019-present] Postdoctoral Scholar
-    -   **Gladstone Institute** for Data Science and Biotechnology, San Francisco, CA
-    -   Research Advisor: Dr. Katherine S. Pollard
-
--   [2013-2018] PhD in Ecology and Evolutionary Biology
-    -   **University of Michigan**, Ann Arbor, MI
-    -   [Dissertation](https://byronjsmith.com/dissertation.pdf): "Integrated
-        Analysis of the Gut Microbiota and Their Fermentation Products in Mice
-        Treated with the Longevity Enhancing Drug Acarbose"
-    -   Embedded Masters in Ecology and Evolutionary Biology, granted in 2016
-    -   GPA: 4.0
-    -   Research Advisor: Dr. Thomas M. Schmidt
-
--   [2011-2013] Graduate Student in Microbiology and Molecular Genetics
-    -   **Michigan State University**, East Lansing, MI
-    -   GPA: 4.0
-    -   Affiliate, BEACON Center for The Study of Evolution in Action
-    -   Affiliate, Great Lakes Bioenergy Research Center
-    -   Research Advisor: Dr. Thomas M. Schmidt
-
--   [2007-2011] Bachelor of Science in Biology
-    -   **The College of William \& Mary**, Williamsburg, VA
-    -   Graduated _Summa Cum Laude_
-    -   GPA: 3.80 (overall) / 4.00 (major)
-    -   Minor: Mathematics
-    -   Research Advisor: Dr. Margaret S. Saha
-
 
 ## Publications ##
 
@@ -213,6 +183,38 @@ diverse data towards understanding complex microbial communities.
 
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
 
+
+## Education and Professional Experience ##
+
+-   [2019-present] Postdoctoral Scholar
+    -   **Gladstone Institute** for Data Science and Biotechnology, San Francisco, CA
+    -   Research Advisor: Dr. Katherine S. Pollard
+
+-   [2013-2018] PhD in Ecology and Evolutionary Biology
+    -   **University of Michigan**, Ann Arbor, MI
+    -   [Dissertation](https://byronjsmith.com/dissertation.pdf): "Integrated
+        Analysis of the Gut Microbiota and Their Fermentation Products in Mice
+        Treated with the Longevity Enhancing Drug Acarbose"
+    -   Embedded Masters in Ecology and Evolutionary Biology, granted in 2016
+    -   GPA: 4.0
+    -   Research Advisor: Dr. Thomas M. Schmidt
+
+-   [2011-2013] Graduate Student in Microbiology and Molecular Genetics
+    -   **Michigan State University**, East Lansing, MI
+    -   GPA: 4.0
+    -   Affiliate, BEACON Center for The Study of Evolution in Action
+    -   Affiliate, Great Lakes Bioenergy Research Center
+    -   Research Advisor: Dr. Thomas M. Schmidt
+
+-   [2007-2011] Bachelor of Science in Biology
+    -   **The College of William \& Mary**, Williamsburg, VA
+    -   Graduated _Summa Cum Laude_
+    -   GPA: 3.80 (overall) / 4.00 (major)
+    -   Minor: Mathematics
+    -   Research Advisor: Dr. Margaret S. Saha
+
+
+
 ### Select Coursework and Workshops ###
 
 -   [2015]
@@ -250,6 +252,9 @@ diverse data towards understanding complex microbial communities.
 
 -   [2008-2011] Advised by **Dr. Margaret S. Saha**
     at The College of William \& Mary
+
+-   [2006-2007] Advised by **Dr. Mary A. Voytek**
+    at the United States Geological Survey
 
 ## Public Datasets ##
 
