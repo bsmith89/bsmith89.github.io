@@ -15,14 +15,16 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-11-08
+version: 2022-11-30
 current: http://www.byronjsmith.com/resume.html
 ...
+
 
 ## Research Focus ##
 
 I develop and use bioinformatic tools and statistical models to integrate
 diverse data towards understanding complex microbial communities.
+
 
 ## Publications ##
 
@@ -77,6 +79,7 @@ diverse data towards understanding complex microbial communities.
     Archaea and a new foundation for future development.
     _Nucleic Acids Research_.
     doi:[10.1093/nar/gku1201](https://doi.org/10.1093/nar/gku1201)
+
 
 ## Posters and Presentations ##
 
@@ -162,6 +165,7 @@ diverse data towards understanding complex microbial communities.
     developing Xenopus" (poster), **Undergraduate Research Symposium**,
     The College of William \& Mary
 
+
 ## Grants and Fellowships ##
 
 -   [2021-2022] Computational Innovation Post-doctoral Fellowship
@@ -183,6 +187,26 @@ diverse data towards understanding complex microbial communities.
 -   [2008-2010] Howard Hughes Medical Institute Student Research Awards
 
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
+
+
+## Honors and Awards ##
+
+-   [2022] Distinguished Achievement in Scientific Leadership Award from the
+    Gladstone Institute of Data Science and Biotechnology
+
+    -   This award is granted to exceptionally collaborative scientists who
+        take on leadership roles at Gladstone and demonstrate exemplary
+        collaboration, mentorship, and integrity that reaches beyond their own
+        lab
+
+-   [2011] Nominated for Michigan State University Distinguished Fellowship or
+    University Enrichment Fellowship
+
+-   [2007, 2008, 2009, 2011] The College of William \& Mary
+    Dean's List for Academic Excellence
+
+-   [2008] Inducted into Alpha Lambda Delta and Phi Eta Sigma Academic Honor
+    Societies
 
 
 ## Education and Professional Experience ##
@@ -215,6 +239,20 @@ diverse data towards understanding complex microbial communities.
     -   Research Advisor: Dr. Margaret S. Saha
 
 
+## Research Training ##
+
+-   [2019-Present] Advised by **Dr. Katherine S. Pollard**
+    at the University of California, San Francisco
+
+-   [2012-2018] Advised by **Dr. Thomas M. Schmidt**
+    at Michigan State University and University of Michigan
+
+-   [2008-2011] Advised by **Dr. Margaret S. Saha**
+    at The College of William \& Mary
+
+-   [2006-2007] Advised by **Dr. Mary A. Voytek**
+    at the United States Geological Survey
+
 
 ### Select Coursework and Workshops ###
 
@@ -232,30 +270,6 @@ diverse data towards understanding complex microbial communities.
 
 -   [2011] **Microbial Metagenomics Workshop**, Michigan State University
 
-## Honors and Awards ##
-
--   [2011] Nominated for Michigan State University Distinguished Fellowship or
-    University Enrichment Fellowship
-
--   [2007, 2008, 2009, 2011] The College of William \& Mary
-    Dean's List for Academic Excellence
-
--   [2008] Inducted into Alpha Lambda Delta and Phi Eta Sigma Academic Honor
-    Societies
-
-## Research Training ##
-
--   [2019-Present] Advised by **Dr. Katherine S. Pollard**
-    at the University of California, San Francisco
-
--   [2012-2018] Advised by **Dr. Thomas M. Schmidt**
-    at Michigan State University and University of Michigan
-
--   [2008-2011] Advised by **Dr. Margaret S. Saha**
-    at The College of William \& Mary
-
--   [2006-2007] Advised by **Dr. Mary A. Voytek**
-    at the United States Geological Survey
 
 ## Public Datasets ##
 
@@ -272,6 +286,7 @@ diverse data towards understanding complex microbial communities.
     bacterial family, the _Muribaculaceae_
     -   Associated metabolite profiles and mouse longevity data are also available
 
+
 ## Teaching ##
 
 -   [2015-present] Instructor,
@@ -286,6 +301,8 @@ diverse data towards understanding complex microbial communities.
         Lawrence Berkeley National Laboratory, and Genentech
     -   Contributed to development of shared teaching materials,
         notably lessons on the tools Git and Make.
+
+\pagebreak
 
 -   [2020] Guest Lecturer,
     **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
@@ -331,15 +348,8 @@ diverse data towards understanding complex microbial communities.
     Michigan State University
     -   Course Instructor: Dr. Robert A. Britton
 
+
 ## Service and Outreach ##
--   [2012-present] **Peer Reviewer**
-    - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
-      _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
-      _ISME_, and others.
-
--   [2018-present] **Software Carpentry Curriculum Advisory Committee**
-    - [2022] Committee Chair
-
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
     -  Advised Gladstone leadership and administration on postdoc issues,
        involved in planning and executing several
@@ -348,6 +358,14 @@ diverse data towards understanding complex microbial communities.
        and retention of postdocs from communities historically
        under-represented in the life sciences, which directly contributed to
        the creation and implementation of the Gladstone DEI Strategic Plan.
+
+-   [2018-present] **Software Carpentry Curriculum Advisory Committee**
+    - [2022] Committee Chair
+
+-   [2012-present] **Peer Reviewer**
+    - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
+      _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
+      _ISME_, and others.
 
 -   [2019] **UCSF Library Reproducibility for Biomedical Researchers** panelist
 
