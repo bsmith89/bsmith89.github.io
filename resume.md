@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-11-30
+version: 2022-12-05
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -30,7 +30,8 @@ diverse data towards understanding complex microbial communities.
 
 -   [2022] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
-    frequency tables. _Current Protocols in Bioinformatics_ (in press)
+    frequency tables. _Current Protocols in Bioinformatics_
+    doi:[10.1002/cpz1.604](https://doi.org/10.1002/cpz1.604)
 
 -   [2022]
     **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable microbial
@@ -350,9 +351,9 @@ diverse data towards understanding complex microbial communities.
 
 
 ## Service and Outreach ##
--   [2019-present] **Gladstone Postdoc Advisory Committee** member
+-   [2019-present] **Gladstone Postdoc Advisory Committee** organizer and member
     -  Advised Gladstone leadership and administration on postdoc issues,
-       involved in planning and executing several
+       involved in planning and executing numerous
        activities and events
     -  Lead postdoc advocacy efforts to increase representation, recruitment,
        and retention of postdocs from communities historically
