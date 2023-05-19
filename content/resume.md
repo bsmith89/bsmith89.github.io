@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2023-04-03
+version: 2023-05-19
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -89,6 +89,11 @@ diverse data towards understanding complex microbial communities.
     transplantation to treat ulcerative colitis."
     ([poster](https:byronjsmith.com/rainin2023_abstract.pdf))
     **Kenneth Rainin Foundation Innovations Symposium**, San Francisco, CA
+
+-   [2023 (upcoming)]
+    "Resolving strain-level gene content variation from large, metagenomic datasets"
+    ([poster](https:byronjsmith.com/grc_micropop_2023_abstract.pdf))
+    **Microbial Population Biology Gordon Research Conference**, Andover, NH
 
 -   [2022]
     "Strain tracking and reconstruction in large metagenomic datasets."
@@ -196,6 +201,8 @@ diverse data towards understanding complex microbial communities.
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
 
 
+\pagebreak
+
 ## Honors and Awards ##
 
 -   [2023] Distinguished Achievement in Scientific Leadership Award from the
@@ -285,7 +292,11 @@ diverse data towards understanding complex microbial communities.
 -   [2011] **Microbial Metagenomics Workshop**, Michigan State University
 
 
-## Public Datasets ##
+## Public Datasets and Software ##
+
+-   [StrainFacts](https://github.com/bsmith89/StrainFacts):
+    Computational tool to identify and track microbial strains across large
+    numbers of metagenomic samples.
 
 -   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
     Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
@@ -303,10 +314,36 @@ diverse data towards understanding complex microbial communities.
 
 ## Formal Mentorship ##
 
--   [2019 and 2023]
-    - Served as postdoc mentor for three rotations students enrolled in PhD
-      programs at UCSF each carrying out microbiome research in the Pollard Lab
-      over 10 weeks.
+-   [2023] **Cindy Pino-Barrios**
+    (Rotation Student in Biological and Medical Informatics, UCSF)
+    - Served as a co-primary mentor during her 10-week rotation in the
+      Pollard Lab, where she initiated a project studying the use of
+      single-nucleotide polymorphisms in the core genome to predict the
+      presence/absence of functional gene families in a publicly available
+      reference genome collection. This project has become the basis for a
+      manuscript that is in preparation.
+    - Currently: Rotation Student working with Prof. Catherine Tcheandjieu, The
+      Gladstone Institutes
+
+-   [2023] **Claire Dubin**
+    (Rotation Student in Bioinformatics, UCSF)
+    - Served as a co-primary mentor during her 10-week rotation in the
+      Pollard Lab, where she initiated a project tracking strain-resolved
+      transmission outcomes in a large meta-study of fecal microbiota
+      transplantation experiments.
+    - Currently: Rotation Student at UCSF
+
+-   [2019] **Erin Gilbertson**
+    (Rotation Student in Biological and Medical Informatics, UCSF)
+    - Served as Erin's primary mentor during her 10-week
+      rotation in the Pollard Lab, where she worked on two separate
+      studies during that time: (1) the analysis of a longitudinal,
+      16S rRNA amplicon data in a pilot study comparing anti-TNF and
+      Vedolizumab treatments for ulcerative colitis patients, and (2)
+      a simulation study benchmarking the performance of StrainFinder,
+      software for the deconvolution of metagenotype data.
+    - Currently: PhD Candidate working with Prof. Tony Capra, UCSF
+
 
 
 ## Teaching ##
@@ -370,6 +407,7 @@ diverse data towards understanding complex microbial communities.
 
 
 ## Service and Outreach ##
+
 -   [2019-present] **Gladstone Postdoc Advisory Committee** organizer and member
     -  Advised Gladstone leadership and administration on postdoc issues;
        involved in planning and executing numerous
@@ -383,6 +421,8 @@ diverse data towards understanding complex microbial communities.
     - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
       _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
       _ISME_, and others.
+
+\pagebreak
 
 -   [2018-2023] **Software Carpentry Curriculum Advisory Committee**
     - [2022-2023] Committee Chair
