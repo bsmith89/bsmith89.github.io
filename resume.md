@@ -8,14 +8,14 @@ github: bsmith89
 orcid: 0000-0002-0182-404X
 gscholar: ZtIlAngAAAAJ
 website: http://blog.byronjsmith.com
-header-includes:
+header-includes: >
     \usepackage{fullpage}
     \usepackage{fontspec}
     \setmainfont{Arial}
 
 analytics: UA-40659359-4
 
-version: 2023-05-19
+version: 2023-07-17
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -84,15 +84,15 @@ diverse data towards understanding complex microbial communities.
 
 ## Posters and Presentations ##
 
--   [2023 (upcoming)]
+-   [2023]
     "Strain-resolved inference of microbial gene content in fecal microbiota
     transplantation to treat ulcerative colitis."
-    ([poster](https:byronjsmith.com/rainin2023_abstract.pdf))
+    ([poster](https://byronjsmith.com/rainin2023_poster.pdf) / [abstract](https://byronjsmith.com/rainin2023_abstract.pdf))
     **Kenneth Rainin Foundation Innovations Symposium**, San Francisco, CA
 
--   [2023 (upcoming)]
+-   [2023]
     "Resolving strain-level gene content variation from large, metagenomic datasets"
-    ([poster](https:byronjsmith.com/grc_micropop_2023_abstract.pdf))
+    ([poster](https://byronjsmith.com/microbialpop2023_poster.pdf) / [abstract](https://byronjsmith.com/grc_micropop_2023_abstract.pdf))
     **Microbial Population Biology Gordon Research Conference**, Andover, NH
 
 -   [2022]
@@ -180,6 +180,7 @@ diverse data towards understanding complex microbial communities.
 
 ## Grants and Fellowships ##
 
+
 -   [2021-2022] Computational Innovation Post-doctoral Fellowship
     for my proposal, "Strain-resolved microbiome-wide association studies for
     the discovery of hidden, microbial drivers of disease", funded for \$75,000
@@ -200,8 +201,6 @@ diverse data towards understanding complex microbial communities.
 
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
 
-
-\pagebreak
 
 ## Honors and Awards ##
 
@@ -322,8 +321,7 @@ diverse data towards understanding complex microbial communities.
       presence/absence of functional gene families in a publicly available
       reference genome collection. This project has become the basis for a
       manuscript that is in preparation.
-    - Currently: Rotation Student working with Prof. Catherine Tcheandjieu, The
-      Gladstone Institutes
+    - Currently: Graduate Student working with Prof. Katie Pollard, UCSF
 
 -   [2023] **Claire Dubin**
     (Rotation Student in Bioinformatics, UCSF)
@@ -331,7 +329,7 @@ diverse data towards understanding complex microbial communities.
       Pollard Lab, where she initiated a project tracking strain-resolved
       transmission outcomes in a large meta-study of fecal microbiota
       transplantation experiments.
-    - Currently: Rotation Student at UCSF
+    - Currently: Graduate Student, UCSF
 
 -   [2019] **Erin Gilbertson**
     (Rotation Student in Biological and Medical Informatics, UCSF)
@@ -421,8 +419,6 @@ diverse data towards understanding complex microbial communities.
     - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
       _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
       _ISME_, and others.
-
-\pagebreak
 
 -   [2018-2023] **Software Carpentry Curriculum Advisory Committee**
     - [2022-2023] Committee Chair
