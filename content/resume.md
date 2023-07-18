@@ -145,6 +145,8 @@ diverse data towards understanding complex microbial communities.
     ([poster](https://byronjsmith.com/asm2019_poster.pdf)),
     **American Society for Microbiology - Microbe**, San Francisco, California
 
+\pagebreak
+
 -   "Changes in the gut microbiota and fermentation products associated
     with enhanced longevity in acarbose-treated mice."
     Presented at:
@@ -251,6 +253,8 @@ diverse data towards understanding complex microbial communities.
     -   Affiliate, Great Lakes Bioenergy Research Center
     -   Research Advisor: Dr. Thomas M. Schmidt
 
+\pagebreak
+
 -   [2007-2011] Bachelor of Science in Biology
     -   **The College of William \& Mary**, Williamsburg, VA
     -   Graduated _Summa Cum Laude_
@@ -303,6 +307,8 @@ diverse data towards understanding complex microbial communities.
 -   [StrainFacts](https://github.com/bsmith89/StrainFacts):
     Computational tool to identify and track microbial strains across large
     numbers of metagenomic samples.
+
+\pagebreak
 
 -   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
     Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
@@ -457,4 +463,4 @@ diverse data towards understanding complex microbial communities.
 -   [2015] National Ocean Sciences Bowl, "**Great Lakes Bowl**" volunteer
 
 -   [2013-2014] Michigan **Xplore Engineering**
-a   "Microbiology and Environmental Engineering" workshop team
+    "Microbiology and Environmental Engineering" workshop team
