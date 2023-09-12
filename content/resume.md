@@ -11,11 +11,11 @@ website: http://blog.byronjsmith.com
 header-includes: >
     \usepackage{fullpage}
     \usepackage{fontspec}
-    \setmainfont{Arial}
+    \setmainfont{Verdana}
 
 analytics: UA-40659359-4
 
-version: 2023-07-18
+version: 2023-09-12
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -31,6 +31,13 @@ diverse data towards understanding complex microbial communities.
 -   [in prep] **B.J. Smith**, X. Jin, C. Zhao, K.S. Pollard. StrainPGC:
     Resolving strain-level gene content variation from large, metagenomic
     datasets.
+
+-   [submitted] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau Anderson, C. E.
+    Porsche, S. Hertz, K. E. McCauley, **B. J. Smith**, M. Zydek, K. S.
+    Pollard, A. Ma, N. El-Nachef, S. V. Lynch. Sustained mucosal colonization
+    and fecal metabolic dysfunction by Bacteroides associates with fecal
+    microbial transplant failure in ulcerative colitis patients. Submitted to
+    _Scientific Reports_.
 
 -   [2022] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
@@ -145,8 +152,6 @@ diverse data towards understanding complex microbial communities.
     ([poster](https://byronjsmith.com/asm2019_poster.pdf)),
     **American Society for Microbiology - Microbe**, San Francisco, California
 
-\pagebreak
-
 -   "Changes in the gut microbiota and fermentation products associated
     with enhanced longevity in acarbose-treated mice."
     Presented at:
@@ -186,16 +191,18 @@ diverse data towards understanding complex microbial communities.
 
 ## Grants and Fellowships ##
 
--   [2022-2023] Contributed to the writing of a Helmsley Charitable Trust grant that
-    was funded for \$245,905.
-    Principal Investigators: Drs. Dirk Haller, Tobias Schwerd, Katherine Pollard
+-   [2022-2023] Contributed to the writing of a Helmsley Charitable Trust grant
+    that was funded for \$245,905. Principal Investigators: Drs. Dirk Haller,
+    Tobias Schwerd, Katherine Pollard
 
--   [2021-2022] Computational Innovation Post-doctoral Fellowship
-    for my proposal, "Strain-resolved microbiome-wide association studies for
-    the discovery of hidden, microbial drivers of disease", funded for \$75,000
+-   [2021-2022] Computational Innovation Postdoctoral Fellowship from the
+    Noyce Initiative for Digital Transformation in Computational Biology and
+    Health Data Science for my proposal, "Strain-resolved microbiome-wide
+    association studies for the discovery of hidden, microbial drivers of
+    disease", funded for \$75,000
 
--   [2016-2018] Integrated Training in Microbial Systems (ITiMS) Fellowship
-    co-advised by Dr. Thomas M. Schmidt and Dr. Aaron A. King
+-   [2016-2018] Integrated Training in Microbial Systems (ITiMS) Graduate
+    Fellowship co-advised by Dr. Thomas M. Schmidt and Dr. Aaron A. King
 
 -   [2015-2016] Instrumental in preparing a UM Glenn Center for Aging Research
     grant that was funded for \$50,000.
@@ -237,6 +244,8 @@ diverse data towards understanding complex microbial communities.
     -   **Gladstone Institute** for Data Science and Biotechnology, San Francisco, CA
     -   Research Advisor: Dr. Katherine S. Pollard
 
+\pagebreak
+
 -   [2013-2018] PhD in Ecology and Evolutionary Biology
     -   **University of Michigan**, Ann Arbor, MI
     -   [Dissertation](https://byronjsmith.com/dissertation.pdf): "Integrated
@@ -252,8 +261,6 @@ diverse data towards understanding complex microbial communities.
     -   Affiliate, BEACON Center for The Study of Evolution in Action
     -   Affiliate, Great Lakes Bioenergy Research Center
     -   Research Advisor: Dr. Thomas M. Schmidt
-
-\pagebreak
 
 -   [2007-2011] Bachelor of Science in Biology
     -   **The College of William \& Mary**, Williamsburg, VA
@@ -308,8 +315,6 @@ diverse data towards understanding complex microbial communities.
     Computational tool to identify and track microbial strains across large
     numbers of metagenomic samples.
 
-\pagebreak
-
 -   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
     Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
     patients receiving fecal microbiota transplants with and without antibiotic
@@ -336,6 +341,8 @@ diverse data towards understanding complex microbial communities.
       manuscript that is in preparation.
     - Currently: Graduate Student working with Prof. Katie Pollard, UCSF
 
+\pagebreak
+
 -   [2023] **Claire Dubin**
     (Rotation Student in Bioinformatics, UCSF)
     - Served as a co-primary mentor during her 10-week rotation in the
@@ -359,7 +366,15 @@ diverse data towards understanding complex microbial communities.
 
 ## Teaching ##
 
--   [2015-present] Instructor,
+-   [2020] Guest Lecturer,
+    **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
+    -   Prepared and taught an interactive lesson titled
+        [_A Brief Introduction to Bayesian Inference_](https://byronjsmith.com/bmi206_bayesian.pdf)
+        to first year PhD students in the Biological and Medical
+        Informatics Graduate Program
+    -   Course Instructor: Dr. Katherine S. Pollard
+
+-   [2015-2020] Instructor,
     **Software Carpentry Bootcamps**,
     -   Co-taught over a dozen workshops on
         computing skills for researchers: programming, the command-line
@@ -372,14 +387,6 @@ diverse data towards understanding complex microbial communities.
     -   Contributed to development of shared teaching materials,
         notably lessons on the tools Git and Make.
 
--   [2020] Guest Lecturer,
-    **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
-    -   Prepared and presented an interactive lesson titled
-        [_Brief Introduction to Bayesian Inference_](https://byronjsmith.com/bmi206_bayesian.pdf)
-        to first year PhD students in the Biological and Medical
-        Informatics Graduate Program
-    -   Course Instructor: Dr. Katherine S. Pollard
-
 -   [2015, 2018] Graduate Student Instructor,
     **Introductory Biology Lab: The Human Microbiome**,
     University of Michigan
@@ -388,6 +395,8 @@ diverse data towards understanding complex microbial communities.
         biology lab
     -   Course Instructors: Dr. Thomas M. Schmidt, Dr. Kristi MacCready,
         and Dr. Arvind Venkateraman
+
+\pagebreak
 
 -   [2017] Teaching Assistant,
     **Data Intensive Biology Summer Research Institute** hosted by
@@ -429,9 +438,9 @@ diverse data towards understanding complex microbial communities.
        the creation and implementation of the Gladstone DEI Strategic Plan.
 
 -   [2012-present] **Peer Reviewer**
-    - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
-      _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
-      _ISME_, and others.
+    - Reviewed submitted manuscripts at _eLife_, _Microbiome_, _Cell Systems_,
+      _PLoS Computational Biology_, _PLoS Biology_, _Inflammatory Bowel Disease_,
+      _Scientific Reports_, _ISME_, and others.
 
 -   [2018-2023] **Software Carpentry Curriculum Advisory Committee**
     - [2022-2023] Committee Chair
