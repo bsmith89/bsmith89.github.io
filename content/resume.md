@@ -34,12 +34,19 @@ microbes residing in the human gut.
     variation in large collections of shotgun metagenomic data.
     (for submission to _Genome Research_)
 
+-   [submitted] D. Häcker, K. Siebert, **B.J. Smith**, N. Köhler, H. Heimes, A.
+    Metwaly, A Mahapatra, H. Hölz, F. De Zen, J. Heetmeyer, K. Socas, G. Le
+    Thi, C. Meng, K. Kleigrewe, J.K. Pauling, K. Neuhaus, M. List, K.S.
+    Pollard, T. Schwerd, D. Haller. Exclusive enteral nutrition initiates
+    protective microbiome changes to induce remission in pediatric Crohn’s
+    disease. (submitted to _Nature Medicine_)
+
 -   [submitted] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau Anderson, C. E.
     Porsche, S. Hertz, K. E. McCauley, **B. J. Smith**, M. Zydek, K. S.
     Pollard, A. Ma, N. El-Nachef, S. V. Lynch. Sustained mucosal colonization
     and fecal metabolic dysfunction by Bacteroides associates with fecal
-    microbial transplant failure in ulcerative colitis patients. Submitted to
-    _Scientific Reports_.
+    microbial transplant failure in ulcerative colitis patients. (submitted to
+    _Scientific Reports_)
 
 -   [2022] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
@@ -250,8 +257,6 @@ microbes residing in the human gut.
     -   **Gladstone Institute** for Data Science and Biotechnology, San Francisco, CA
     -   Research Advisor: Dr. Katherine S. Pollard
 
-\pagebreak
-
 -   [2013-2018] PhD in Ecology and Evolutionary Biology
     -   **University of Michigan**, Ann Arbor, MI
     -   [Dissertation](https://byronjsmith.com/dissertation.pdf): "Integrated
@@ -351,8 +356,6 @@ microbes residing in the human gut.
       manuscript that is in preparation.
     - Currently: Graduate Student working with Prof. Katie Pollard, UCSF
 
-\pagebreak
-
 -   [2023] **Claire Dubin**
     (Rotation Student in Bioinformatics, UCSF)
     - Served as a co-primary mentor during her 10-week rotation in the
@@ -405,8 +408,6 @@ microbes residing in the human gut.
         biology lab
     -   Course Instructors: Dr. Thomas M. Schmidt, Dr. Kristi MacCready,
         and Dr. Arvind Venkateraman
-
-\pagebreak
 
 -   [2017] Teaching Assistant,
     **Data Intensive Biology Summer Research Institute** hosted by
